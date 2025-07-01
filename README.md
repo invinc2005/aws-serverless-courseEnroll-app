@@ -1,6 +1,6 @@
 # AWS Serverless Course Enrollment App
 
-[Watch Demo Video](https://drive.google.com/your-video-link-here](https://drive.google.com/file/d/1_khXlyORMwk09jtFhSMipyh-T2nmKLDQ/view?usp=sharing)
+[Watch Demo Video](https://drive.google.com/file/d/1_khXlyORMwk09jtFhSMipyh-T2nmKLDQ/view?usp=sharing)
 
 ## Overview
 
